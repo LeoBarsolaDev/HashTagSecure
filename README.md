@@ -27,7 +27,7 @@ You can try it live [here](https://leobarsoladev.github.io/HashTagSecure/)
 Clone the repo and run it locally:
 
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/LeoBarsolaDev/HashTagSecure.git
 cd password-generator
 npm install
 npm run dev
