@@ -28,6 +28,6 @@ Clone the repo and run it locally:
 
 ```bash
 git clone https://github.com/LeoBarsolaDev/HashTagSecure.git
-cd password-generator
+cd HashTagSecure
 npm install
 npm run dev
