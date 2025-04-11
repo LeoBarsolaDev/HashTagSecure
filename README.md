@@ -1,4 +1,4 @@
-# 🔐 Password Generator & Strength Checker
+# 🔐 HashTagSecure
 
 A simple yet powerful web app that allows you to generate secure passwords and check the strength of your own.  
 Built with **React** and styled using **Tailwind CSS**.
