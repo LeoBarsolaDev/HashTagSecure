@@ -11,12 +11,6 @@ You can try it live [here](https://leobarsoladev.github.io/HashTagSecure/)
 
 - 🔄 Generate strong and random passwords
 - 🔍 Check the strength of any password
-- ✨ Toggle options for:
-  - Uppercase / lowercase letters
-  - Numbers
-  - Symbols
-  - Password length
-- 🌗 Dark mode support (optional)
 - 📱 Responsive design for all screen sizes
 
 ---
